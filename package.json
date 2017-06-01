@@ -1,7 +1,8 @@
 {
-  "name": "iris",
+  "name": "kleos",
   "version": "0.1.0",
   "private": true,
+  "license": "GPL-3.0+",
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
     "flow-bin": "^0.47.0",
