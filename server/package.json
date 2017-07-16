@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Our note-taking server, exposed via GraphQL",
+  "main": "index.js",
+  "author": "ajhyndman@hotmail.com",
+  "license": "MIT"
+}
